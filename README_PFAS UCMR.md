@@ -4,7 +4,7 @@ An analysis of the final national PFAS monitoring results from EPA's Fifth Unreg
 
 UCMR 5 was published in December 2021. Water systems collected samples from 2023 to 2025, and EPA released the final dataset in August 2026.
 
-**Dashboard:** [PASTE YOUR TABLEAU PUBLIC LINK HERE]
+**Dashboard:** https://public.tableau.com/views/PFASinUSDrinkingWaterUCMR5/PFASDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![PFAS dashboard](PFAS%20Dashboard.png)
 
